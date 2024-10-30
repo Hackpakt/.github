@@ -22,7 +22,7 @@ At Hack-PAKT, we believe in the power of teamwork and creativity to create meani
   <img src="https://img.icons8.com/?size=100&id=100819&format=png&color=FFFFFF" alt="Web3" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/gemini.png" alt="Gemini AI" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=1bVDgc9r21ji&format=png&color=000000" alt="IOT" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="50" height="50"/>
