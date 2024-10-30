@@ -1,4 +1,4 @@
-# Hack-PAKT
+# HackPAKT
 **_"Empowering Innovation, One Hack at a Time!"_**
 
 ---
