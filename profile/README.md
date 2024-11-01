@@ -1,4 +1,4 @@
-# HackPAKT
+# [HackPAKT](https://hackpakt.github.io)
 **_"Empowering Innovation, One Hack at a Time!"_**
 
 ---
